@@ -19,7 +19,8 @@ To install this application you will need to clone this repository to your local
 You should know...The user should be proficient in javascript, node.js, Express.js, MongoDB, React, Graphql, Dotenv and Heroku
 
 ## Snapshot
-
+![image](https://user-images.githubusercontent.com/85199825/142955281-110a4104-6a10-4897-8ed4-5c099855b274.png)
+![image](https://user-images.githubusercontent.com/85199825/142955320-d359e0eb-99c6-4b4c-bc4c-447b47d65fa6.png)
 
 
 ## License
