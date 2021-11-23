@@ -13,7 +13,7 @@ This application utilizes Google Books API for books data and the MERN stack. Us
 5. [Questions](#questions)
 
 ## Installation
-To install this application you will need to clone this repository to your local machine, run 'npm i' in your terminal, and run 'node server.js' to start the application. Follow the server.js localhost URI to view your local application. This application also use a cloud MongoDB Atlas DB https://cloud.mongodb.com/
+To install this application you will need to clone this repository to your local machine, run 'npm i' in your terminal, and run 'npm start' to start the application. Follow the server.js localhost URI to view your local application. This application also use a cloud MongoDB Atlas DB https://cloud.mongodb.com/ for Prod version
 
 ## Usage
 You should know...The user should be proficient in javascript, node.js, Express.js, MongoDB, React, Graphql, Dotenv and Heroku
