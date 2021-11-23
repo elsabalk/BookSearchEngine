@@ -1,2 +1,4 @@
 /node_modules
 /server/node_modules
+/server/client/.gitignore
+/server/client
